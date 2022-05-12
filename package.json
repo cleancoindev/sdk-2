@@ -30,7 +30,7 @@
     "axios": "0.26.0",
     "bs58": "4.0.1",
     "ethers": "5.4.7",
-    "ethers-multicall": "0.2.2",
+    "ethers-multicall": "0.2.3",
     "lru-cache": "6.0.0"
   },
   "devDependencies": {
