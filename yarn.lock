@@ -2891,10 +2891,10 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.3.tgz#74d2eb4de0b8da1293711910d50775b9b710ef64"
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
-ethers-multicall@0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/ethers-multicall/-/ethers-multicall-0.2.2.tgz#c2c6c6caf8a92e3c996deb0662729e6c203e64ab"
-  integrity sha512-SIv+u+p7iQIvvUwEG0lEflkG4KA2qGW796REpZrpn1ArWveJ7AO3Lg6R0gtfRA/kbTT/5OVo6Ob6lsFPGnzMQg==
+ethers-multicall@0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/ethers-multicall/-/ethers-multicall-0.2.3.tgz#872b5ad7d6b5d4d7f2960c33bf36bd46d034ac41"
+  integrity sha512-RaWQuLy+HzeKOibptlc9RZ6j7bT1H6VnkdAKTHiLx2t/lpyfS2ckXHdQhhRbCaXNc1iu6CgoisgMejxKHg84tg==
   dependencies:
     ethers "^5.0.0"
 
@@ -4915,7 +4915,7 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-ts-standard@^11.0.0:
+ts-standard@11.0.0:
   version "11.0.0"
   resolved "https://registry.yarnpkg.com/ts-standard/-/ts-standard-11.0.0.tgz#2d9908869818f09601af9d57cc224c836d9eb31c"
   integrity sha512-fe+PCOM6JTMIcG1Smr8BQJztUi3dc/SDJMqezxNAL8pe/0+h0shK0+fNPTuF1hMVMYO+O53Wtp9WQHqj0GJtMw==
